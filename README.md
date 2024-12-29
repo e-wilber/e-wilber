@@ -19,7 +19,7 @@ I'm a Computer Information Systems student with a passion for software developme
 - [Events Calendar](https://github.com/e-wilber/event-calendar-php)  
   A PHP application for managing event registrations.
 
-- [Target GUI](https://github.com/e-wilber/simple-java-code/TargetGUI_Wilber/src/TargetPanel.java)  
+- [Target GUI](https://github.com/e-wilber/TargetGUI_Wilber/src/TargetPanel.java)  
   A Java application showcasing GUI.
 
 ---
