@@ -8,7 +8,7 @@ I'm a Computer Information Systems student with a passion for software developme
 - **Programming Languages**: Java, Python, PHP, JavaScript
 - **Web Development**: HTML, CSS, JSP
 - **Database Management**: MySQL, SQL
-- **Tools**: Visual Studio Code, NetBeans, Eclipse, GitHub, MySQL Workbench
+- **Tools**: Visual Studio Code, NetBeans, Eclipse, Pycharm, GitHub, MySQL Workbench
 
 ---
 
