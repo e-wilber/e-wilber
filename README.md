@@ -16,8 +16,6 @@ I'm a Computer Information Systems student with a passion for software developme
 - [Library Management System](https://github.com/e-wilber/java-2-group-project)  
   The final group project for java 2, a web-based system for managing library checkouts and returns.
   
-- [Events Calendar](https://github.com/e-wilber/event-calendar-php)  
-  A PHP application for managing event registrations.
 
 - [Target GUI](https://github.com/e-wilber/simple-java-code)  
   A Java application showcasing GUI.
